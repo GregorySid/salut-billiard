@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Salut</string>
+
+    <string name="nav_back">Назад</string>
+
+    <string name="screen_tables_title">Столы</string>
+    <string name="screen_filters_title">Фильтры</string>
+    <string name="screen_bookings_title">Мои бронирования</string>
+    <string name="screen_settings_title">Настройки</string>
+    <string name="screen_table_detail_title">Информация о столе</string>
+    <string name="screen_booking_title">Бронирование</string>
+
+    <string name="action_search">Поиск</string>
+    <string name="search_hint">Поиск по названию или номеру</string>
+    <string name="action_filters">Фильтры</string>
+    <string name="action_bookings">Мои бронирования</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_retry">Повторить</string>
+    <string name="action_apply">Применить</string>
+    <string name="action_reset">Сбросить</string>
+    <string name="action_book">Забронировать</string>
+    <string name="action_cancel">Отменить</string>
+    <string name="action_confirm">Подтвердить</string>
+    <string name="action_close">Закрыть</string>
+    <string name="action_clear">Очистить</string>
+
+    <string name="empty_nothing_found">Ничего не найдено</string>
+    <string name="empty_no_tables">Нет доступных столов</string>
+    <string name="empty_no_bookings">У вас пока нет бронирований</string>
+    <string name="empty_no_slots">На выбранную дату нет доступных слотов</string>
+    <string name="empty_no_equipment">Оборудование не указано</string>
+
+    <string name="offline_banner">Нет подключения к интернету. Данные могут быть устаревшими.</string>
+    <string name="offline_action_message">Действие недоступно без подключения к интернету</string>
+
+    <string name="error_network">Нет подключения к интернету</string>
+    <string name="error_timeout">Превышено время ожидания запроса</string>
+    <string name="error_server">Ошибка сервера. Попробуйте позже</string>
+    <string name="error_not_found">Данные не найдены</string>
+    <string name="error_unknown">Произошла неизвестная ошибка</string>
+
+    <string name="filter_type">Тип стола</string>
+    <string name="filter_status">Статус</string>
+    <string name="filter_capacity">Вместимость</string>
+    <string name="filter_price">Цена за час</string>
+    <string name="filter_equipment">Дополнительное оборудование</string>
+    <string name="filter_from">От</string>
+    <string name="filter_to">До</string>
+    <string name="filter_all">Все</string>
+
+    <string name="type_russian">Русский</string>
+    <string name="type_american">Американский</string>
+    <string name="type_snooker">Снукер</string>
+
+    <string name="status_free">Свободен</string>
+    <string name="status_busy">Занят</string>
+    <string name="status_maintenance">На обслуживании</string>
+
+    <string name="booking_status_active">Активное</string>
+    <string name="booking_status_past">Прошедшее</string>
+    <string name="booking_status_cancelled">Отменено</string>
+
+    <string name="detail_capacity">Вместимость</string>
+    <string name="detail_price">Цена за час</string>
+    <string name="detail_type">Тип</string>
+    <string name="detail_status">Статус</string>
+    <string name="detail_description">Описание</string>
+    <string name="detail_slots">Доступные слоты</string>
+    <string name="detail_choose_date">Выберите дату</string>
+    <string name="detail_equipment">Оборудование</string>
+
+    <string name="booking_select_slots">Выберите время</string>
+    <string name="booking_total">Итого</string>
+    <string name="booking_confirmed">Бронирование подтверждено</string>
+    <string name="booking_cancelled">Бронирование отменено</string>
+    <string name="booking_cancel_confirm_title">Отменить бронирование?</string>
+    <string name="booking_cancel_confirm_text">Это действие нельзя отменить.</string>
+
+    <string name="bookings_active_section">Активные</string>
+    <string name="bookings_past_section">Прошедшие</string>
+
+    <string name="settings_theme">Оформление</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+
+    <string name="label_table_number">Стол №%1$d</string>
+    <string name="label_date">Дата</string>
+    <string name="label_time">Время</string>
+    <string name="label_total">Стоимость</string>
+
+    <string name="unit_capacity">чел.</string>
+    <string name="unit_currency">₽</string>
+    <string name="unit_per_hour">₽/час</string>
+    <string name="price_value">%1$d ₽</string>
+    <string name="capacity_value">%1$d чел.</string>
+
+    <string name="equipment_kievnitsa">Киевница</string>
+    <string name="equipment_lighting">Подсветка</string>
+    <string name="equipment_cues">Набор киёв</string>
+    <string name="equipment_balls">Новый набор шаров</string>
+    <string name="equipment_scoreboard">Счётное табло</string>
+    <string name="equipment_bar">Бар-зона</string>
+
+    <string name="content_desc_table_photo">Фото стола %1$s</string>
+    <string name="content_desc_offline">Нет подключения к интернету</string>
+    <string name="loading">Загрузка…</string>
+</resources>
