@@ -12,16 +12,12 @@
 
 ## Скриншоты
 
-| Столы | Фильтры | Детали стола |
-|:---:|:---:|:---:|
-| ![Столы](docs/screenshots/tables.png) | ![Фильтры](docs/screenshots/filters.png) | ![Детали стола](docs/screenshots/table_detail.png) |
+<img width="1080" height="2400" alt="photo_2026-10-17_00-26-43" src="https://github.com/user-attachments/assets/5e95de78-1d6f-47de-a7ca-ea9987a4a7c1" />
+<img width="1080" height="2400" alt="photo_2026-10-17_00-26-49" src="https://github.com/user-attachments/assets/7eaedf48-0ed7-4e1e-83fd-676db44097d3" />
+<img width="1080" height="2400" alt="photo_2026-10-17_00-26-32" src="https://github.com/user-attachments/assets/1283f807-483d-4f4d-84e1-82fb62f2ec8d" />
+<img width="1080" height="2400" alt="photo_2026-10-17_00-26-37" src="https://github.com/user-attachments/assets/dde255e6-b391-48c0-8a8e-3496e000da99" />
+<img width="1080" height="2400" alt="photo_2026-10-17_00-26-46" src="https://github.com/user-attachments/assets/ebc1641e-306f-4030-975d-721244e45df2" />
 
-| Бронирование | Мои бронирования | Настройки |
-|:---:|:---:|:---:|
-| ![Бронирование](docs/screenshots/booking.png) | ![Мои бронирования](docs/screenshots/bookings.png) | ![Настройки](docs/screenshots/settings.png) |
-
-> Скриншоты лежат в `docs/screenshots/`. Имена файлов: `tables.png`,
-> `filters.png`, `table_detail.png`, `booking.png`, `bookings.png`, `settings.png`.
 
 ---
 
