@@ -1,4 +1,3 @@
-<img width="1080" height="2400" alt="photo_2026-10-17_00-39-30" src="https://github.com/user-attachments/assets/c4c81a28-9e74-4fe8-9b70-7505b6e97db0" />
 # Salut — бронирование бильярдных столов
 
 Демонстрационное Android‑приложение для просмотра бильярдных столов и бронирования
