@@ -10,16 +10,6 @@
 
 ---
 
-## Скриншоты
-
-<img align="left"  width="240" src="https://github.com/user-attachments/assets/5e95de78-1d6f-47de-a7ca-ea9987a4a7c1" />
-<img align="left"  width="240" src="https://github.com/user-attachments/assets/7eaedf48-0ed7-4e1e-83fd-676db44097d3" />
-<img align="left"  width="240" src="https://github.com/user-attachments/assets/1283f807-483d-4f4d-84e1-82fb62f2ec8d" />
-<img align="left"  width="240" src="https://github.com/user-attachments/assets/dde255e6-b391-48c0-8a8e-3496e000da99" />
-<img align="left"  width="240" src="https://github.com/user-attachments/assets/ebc1641e-306f-4030-975d-721244e45df2" />
-
----
-
 ## Возможности
 
 - **Список столов** — карточки с фото, названием, типом, вместимостью, ценой и
@@ -106,44 +96,12 @@ app/src/main/java/com/salut/
 
 ---
 
-## Сборка и запуск
 
-Требуется **JDK 17+** (или встроенный JBR из Android Studio) и Android SDK.
+## Скриншоты
 
-```bash
-# отладочная сборка
-./gradlew assembleDebug
+<img align="left"  width="240" src="https://github.com/user-attachments/assets/5e95de78-1d6f-47de-a7ca-ea9987a4a7c1" />
+<img align="left"  width="240" src="https://github.com/user-attachments/assets/7eaedf48-0ed7-4e1e-83fd-676db44097d3" />
+<img align="left"  width="240" src="https://github.com/user-attachments/assets/1283f807-483d-4f4d-84e1-82fb62f2ec8d" />
+<img align="left"  width="240" src="https://github.com/user-attachments/assets/dde255e6-b391-48c0-8a8e-3496e000da99" />
+<img align="left"  width="240" src="https://github.com/user-attachments/assets/ebc1641e-306f-4030-975d-721244e45df2" />
 
-# установка на подключённое устройство/эмулятор
-./gradlew installDebug
-```
-
-Или просто откройте проект в Android Studio и запустите конфигурацию `app`.
-
-### Мок‑режим
-
-Флаг `BuildConfig.USE_MOCK_API` включён для `debug` и `release`, поэтому сеть
-перехватывается `MockInterceptor`. Реализованные эндпоинты:
-
-- `GET /tables` — список с фильтрами, поиском и пагинацией;
-- `GET /tables/{id}` — детали стола;
-- `GET /tables/{id}/slots?date=…` — слоты на дату;
-- `GET /bookings`, `POST /bookings`, `DELETE /bookings/{id}` — брони.
-
-Для перехода на реальный бэкенд задайте `BASE_URL` и установите
-`USE_MOCK_API = false` в `app/build.gradle.kts`.
-
----
-
-## Тесты и проверки
-
-```bash
-./gradlew testDebugUnitTest   # юнит-тесты
-./gradlew lintDebug           # Android Lint
-```
-
----
-
-## Лицензия
-
-Проект создан в учебно‑демонстрационных целях.
