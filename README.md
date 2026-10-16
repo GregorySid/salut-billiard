@@ -1,3 +1,4 @@
+<img width="1080" height="2400" alt="photo_2026-10-17_00-39-30" src="https://github.com/user-attachments/assets/c4c81a28-9e74-4fe8-9b70-7505b6e97db0" />
 # Salut — бронирование бильярдных столов
 
 Демонстрационное Android‑приложение для просмотра бильярдных столов и бронирования
@@ -102,6 +103,7 @@ app/src/main/java/com/salut/
 <img align="left"  width="240" src="https://github.com/user-attachments/assets/5e95de78-1d6f-47de-a7ca-ea9987a4a7c1" />
 <img align="left"  width="240" src="https://github.com/user-attachments/assets/7eaedf48-0ed7-4e1e-83fd-676db44097d3" />
 <img align="left"  width="240" src="https://github.com/user-attachments/assets/1283f807-483d-4f4d-84e1-82fb62f2ec8d" />
+
 <img align="left"  width="240" src="https://github.com/user-attachments/assets/dde255e6-b391-48c0-8a8e-3496e000da99" />
 <img align="left"  width="240" src="https://github.com/user-attachments/assets/ebc1641e-306f-4030-975d-721244e45df2" />
-
+<img align="left"  width="240" src="https://github.com/user-attachments/assets/78ea1d72-dfc9-4209-9be5-69060718c50c" />
